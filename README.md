@@ -1,0 +1,1 @@
+# OCR_palte_text_detection
